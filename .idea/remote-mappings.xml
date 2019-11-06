@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="php@4e6dcd70-0871-4dd6-8fcb-af7204292c5f">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/srv" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
