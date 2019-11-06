@@ -1,0 +1,17 @@
+{
+  "name": "dhii/reflection-access",
+  "description": "A library that aims to make testing easier by using reflections to allow access to internal members.",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anton Ukhanev",
+      "email": "xedin.unknown@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Dhii",
+      "role": "Organization"
+    }
+  ]
+}
